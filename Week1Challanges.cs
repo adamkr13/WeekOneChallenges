@@ -47,7 +47,7 @@ namespace WeekOneChallenges
                 Console.WriteLine("Oh man, get some sleep!");
             }
 
-            string day = ":(";            
+            string day = ":(";
 
             switch (day)
             {
@@ -67,9 +67,7 @@ namespace WeekOneChallenges
                     Console.WriteLine("I am so sorry!");
                     break;
             }
-                
 
-                
         }
     }
 }
